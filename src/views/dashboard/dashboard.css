@@ -1,0 +1,85 @@
+/* #newsfeed{
+    
+} */
+
+
+.newsDiv{
+    width: 500px;
+    height: auto;   
+    border-radius: 0px 0px 6px 6px;
+    background-color: #d5d5d5;
+    padding: 12px;
+    margin-top: 10px;
+}
+.border{
+    border-radius: 0;
+}
+
+#title{
+    margin-left: 16px;
+ 
+   
+}
+#title>p{
+    color: blue;
+}
+.profile{
+  display: flex;
+  margin-left: 15px;
+  font-weight: bold;
+  
+}
+.descr{
+   margin-left: 15px;
+}
+.btns{
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid gray;
+
+}
+
+h5{
+    margin-top: -10px;
+    font-weight: 600;
+}
+
+
+.likebtn{
+    width: 100px;
+    border: none;
+    background-color: #d5d5d5;
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 4px;
+    font-weight: bold;}
+
+
+#empty{
+    width: 90%;
+    height: 2px;
+}
+
+.userName{
+    display: flex;
+    justify-content: space-evenly;
+    width: 407px;
+   
+}
+.emoji{
+    padding-left: 10px;
+}
+
+.emoji-div{
+    display: flex;
+}
+
+
+
+#btniconImg{
+    width: 18px;
+}
+
+
+
+
